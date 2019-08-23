@@ -491,7 +491,7 @@ This app have used content from the following creators:
 @lottiefiles/ LottieFiles
 @Tomás Susemihl/ LottieFiles
 
-## BeauNouvelle/ShimmerSwift [github](https://github.com/BeauNouvelle/ShimmerSwift)
+## BeauNouvelle/[ShimmerSwift](https://github.com/BeauNouvelle/ShimmerSwift)
 
 This is free and unencumbered software released into the public domain.
 
